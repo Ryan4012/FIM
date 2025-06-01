@@ -9,6 +9,7 @@ This project demonstrates a basic verison of a File Integrity Monitor alerting s
 
 - <b>PowerShell</b> 
 - <b>File System</b>
+- <b>SHA-512</b>
 
 <h2>Environments Used </h2>
 
